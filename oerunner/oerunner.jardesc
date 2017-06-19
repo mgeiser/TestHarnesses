@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/mgeiser/Downloads/__OERunner/oerunner.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/oerunner/oerunner.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=oerunner/src\/main\/java&lt;{DevJavaTestSuite.java[DevJavaTestSuite" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <javaElement handleIdentifier="=oerunner/src\/test\/java"/>
+        <javaElement handleIdentifier="=oerunner/src\/test\/resources"/>
+        <file path="/oerunner/oerunner.jardesc"/>
+        <folder path="/oerunner/target"/>
+        <javaElement handleIdentifier="=oerunner/src\/main\/java"/>
+        <file path="/oerunner/DEV-Wawa-OE.properties"/>
+        <file path="/oerunner/PROD-Wawa-OE.properties"/>
+        <file path="/oerunner/.project"/>
+        <javaElement handleIdentifier="=oerunner/src\/main\/resources"/>
+        <folder path="/oerunner/logs"/>
+        <folder path="/oerunner/src"/>
+        <file path="/oerunner/pom.xml"/>
+        <file path="/oerunner/.classpath"/>
+    </selectedElements>
+</jardesc>

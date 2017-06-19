@@ -1,0 +1,24 @@
+2012-02-08 09:14:48.008 - 
+
+ -----the xml of this address ----- 
+<?xml version="1.0" encoding="UTF-8"?><shippingaddress><Line1>680 Sunnyside Ave</Line1><City>Audubon</City><MainDivision>PA</MainDivision><CountryCode>US</CountryCode><PostalCode>19403</PostalCode></shippingaddress>
+
+ 
+2012-02-08 09:14:48.102 - 
+
+ -----the xml of this address ----- 
+<?xml version="1.0" encoding="UTF-8"?><shippingaddress><Line1>680 Sunnyside Ave</Line1><City>Audubon</City><MainDivision>PA</MainDivision><CountryCode>US</CountryCode><PostalCode>19403</PostalCode></shippingaddress>
+
+ 
+2012-02-08 09:46:13.692 - NullPointerException Exception caught in Eb2cAddressDO.Eb2cAddressDO(String) constructor when trying to load file resource/test/Eb2cAddressDO.xml 
+java.lang.NullPointerException
+	at com.gsipartners.eb2c.api.testharness.dataobjects.Eb2cAddressDO.<init>(Eb2cAddressDO.java:81)
+	at TestAddressDO.main(TestAddressDO.java:23)
+2012-02-08 09:51:51.572 - NullPointerException Exception caught in Eb2cAddressDO.Eb2cAddressDO(String) constructor when trying to load file resource/test/C:\Users\geiserm\EclipseTestHarnesses\eb2cAPITestHarness\resources\testEb2cAddressDO.xml 
+java.lang.NullPointerException
+	at com.gsipartners.eb2c.api.testharness.dataobjects.Eb2cAddressDO.<init>(Eb2cAddressDO.java:81)
+	at TestAddressDO.main(TestAddressDO.java:23)
+2012-02-08 09:53:08.305 - NullPointerException Exception caught in Eb2cAddressDO.Eb2cAddressDO(String) constructor when trying to load file resource/test/C:\Users\geiserm\EclipseTestHarnesses\eb2cAPITestHarness\resources\test\Eb2cAddressDO.xml 
+java.lang.NullPointerException
+	at com.gsipartners.eb2c.api.testharness.dataobjects.Eb2cAddressDO.<init>(Eb2cAddressDO.java:81)
+	at TestAddressDO.main(TestAddressDO.java:23)

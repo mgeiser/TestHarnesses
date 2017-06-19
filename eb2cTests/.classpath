@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="EB2C API/public-api-service/src/test/java"/>
+	<classpathentry kind="src" path="EB2C API/public-api-schemas/src/test/java"/>
+	<classpathentry kind="src" path="EB2C API/public-api-integration-tests/src/main/java"/>
+	<classpathentry kind="src" path="EB2C API/public-api-service/src/main/java"/>
+	<classpathentry kind="src" path="EB2C API/public-api-util/src/test/java"/>
+	<classpathentry kind="src" path="EB2C API/public-api-util/src/main/java"/>
+	<classpathentry kind="src" path="mule/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/geiserm/EclipseTestHarnesses/eb2cTests/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/geiserm/EclipseTestHarnesses/eb2cTests/commons-io-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/geiserm/EclipseTestHarnesses/eb2cTests/httpclient-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/geiserm/EclipseTestHarnesses/eb2cTests/httpclient-cache-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/geiserm/EclipseTestHarnesses/TestHarness/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/geiserm/EclipseTestHarnesses/eb2cTests/xmlunit-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/geiserm/EclipseTestHarnesses/eb2cTests/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/geiserm/EclipseTestHarnesses/eb2cTests/mule-core-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/geiserm/EclipseTestHarnesses/eb2cTests/mule-pattern-core-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/geiserm/EclipseTestHarnesses/eb2cTests/mule-module-xml-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/geiserm/EclipseTestHarnesses/eb2cTests/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/geiserm/EclipseTestHarnesses/eb2cTests/mule-module-spring-config-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/geiserm/EclipseTestHarnesses/eb2cTests/spring-context-2.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/geiserm/EclipseTestHarnesses/eb2cTests/spring-core-2.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/geiserm/EclipseTestHarnesses/eb2cTests/spring-beans-2.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/geiserm/EclipseTestHarnesses/eb2cTests/javax.jms.jar"/>
+	<classpathentry kind="lib" path="C:/Users/geiserm/EclipseTestHarnesses/eb2cTests/gsi-mule-components-3.2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/geiserm/EclipseTestHarnesses/eb2cTests/connector-api-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/geiserm/EclipseTestHarnesses/eb2cTests/mule-transport-jms-2.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/geiserm/EclipseTestHarnesses/eb2cTests/mule-module-client-2.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/geiserm/EclipseTestHarnesses/eb2cTests/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/geiserm/EclipseTestHarnesses/eb2cTests/perf4j-0.9.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/geiserm/EclipseTestHarnesses/eb2cTests/spring-security-core-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/geiserm/EclipseTestHarnesses/eb2cTests/hazelcast.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

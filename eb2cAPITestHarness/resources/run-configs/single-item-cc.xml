@@ -1,0 +1,53 @@
+<run-config>
+	<items>
+		<item>
+			<itemid>18-SMOKE1</itemid>
+			<qty>2</qty>
+		</item>
+	</items>
+	<payment type="VC">
+		<number>41111111111111111</number>
+		<exp-date>2012-09Z</exp-date>
+		<ccv>123</ccv>
+	</payment>
+
+
+<Customer customerId="12345">
+	<Name>
+		<LastName>Geiser</LastName>
+		<MiddleName>J</MiddleName>
+		<FirstName>Michael</FirstName>
+	</Name>
+	<EmailAddress>mgeiser@ebay.com</EmailAddress>
+	<CustomerTaxId>973935484</CustomerTaxId>
+	<TaxExemptFlag>true</TaxExemptFlag>
+</Customer>
+
+<Context>
+	<BrowserData>
+		<HostName>GSI-13873.gsiccorp.net</HostName>
+		<IPAddress>192.168.229.46</IPAddress>
+		<SessionId>n4oQcTuXv9EQcXVOvMqGgC47HFH0oLhMe1uTqt9G</SessionId>
+		<UserAgent>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)</UserAgent>
+		<Connection>Keep-Alive</Connection>
+		<Cookies>AuthenticationStateToken-B52sFfGWGBQAAAE0Zt0l9wAJ=3a3bfd6794ad08afd9f363ff6c1d4298</Cookies>
+		<JavascriptData>none</JavascriptData>
+		<Referrer>https://tbleu-sectst02-edit.us.gspt.net/is-bin/INTERSHOP.enfinity/WFS/TBLEU-TBLUK-Site/en_GB/-/GBP/ViewData-Start/266624249?JumpTarget=ViewCheckoutReview-Start</Referrer>
+		<HTTPAcceptData>
+			<ContentTypes>image/jpeg, application/x-ms-application, image/gif,application/xaml+xml, image/pjpeg, application/x-ms-xbap,application/vnd.ms-excel, application/vnd.ms-powerpoint,application/msword, */*</ContentTypes>
+			<Encoding>gzip, deflate</Encoding>
+			<Language>en-US</Language>
+			<CharSet></CharSet>
+		</HTTPAcceptData>
+	</BrowserData>
+	<TdlOrderTimestamp>2012-02-08T10:58:44.990-05:00</TdlOrderTimestamp>
+	<SessionInfo>
+		<TimeSpentOnSite>00:02:47</TimeSpentOnSite>
+		<LastLogin>2011-12-02T15:37:35.349-05:00</LastLogin>
+		<UserPassword>2692b41315fe65c0feead745e775d84f</UserPassword>
+		<AuthorizationAttempts>1</AuthorizationAttempts>
+	</SessionInfo>
+</Context>
+
+
+</run-config>

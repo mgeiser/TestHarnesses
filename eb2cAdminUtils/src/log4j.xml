@@ -1,0 +1,41 @@
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd"> 
+<log4j:configuration xmlns:log4j="http://jakarta.apache.org/log4j/">  
+
+	<appender name="MainLogFile" class="org.apache.log4j.DailyRollingFileAppender">
+		<param name="File" value="logs/eb2cAdminUtilitiesErrorLog.log"/>
+		<param name="Append" value="false"/>
+		<param name="DatePattern" value="'.'yyyy-MM-dd-a"/>
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="||%d{yyyy-MM-dd}||%d{HH:mm:ss.SSS}||%m||-||%F:%M:%L \r\n"/>
+		</layout>
+		<filter class="org.apache.log4j.varia.LevelRangeFilter">
+        	<param name="LevelMin" value="warn"/>
+		</filter>		
+	</appender>
+
+	<appender name="RunLog" class="org.apache.log4j.DailyRollingFileAppender">
+		<param name="File" value="logs/eb2cAdminUtilitiesRunLog.log"/>
+		<param name="Append" value="false"/>
+		<param name="DatePattern" value="'.'yyyy-MM-dd-a"/>
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%d{yyyy-MM-dd} %d{HH:mm:ss.SSS} - %m \r\n"/>
+		</layout>
+		<filter class="org.apache.log4j.varia.LevelRangeFilter">
+        	<param name="LevelMin" value="info"/>
+        	<param name="LevelMax" value="info"/>
+		</filter>		
+	</appender>
+
+ 
+	
+	<!-- default logging -->  
+	<root>   
+		<appender-ref ref="MainLogFile"/>
+		<appender-ref ref="RunLog"/>  
+	</root> 
+
+
+
+
+
+</log4j:configuration> 

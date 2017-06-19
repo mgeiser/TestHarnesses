@@ -1,0 +1,24 @@
+||2012-03-02||15:23:07.888||-----------------------------------------------------------------------------------------||-||ParameterValidations.java:logToErrorandRunLogs:214 
+||2012-03-02||15:23:07.898||Validation error: Expiration Date value 2012-01-32 is not a valid date||-||ParameterValidations.java:logToErrorandRunLogs:215 
+||2012-03-02||15:23:07.898||-----------------------------------------------------------------------------------------||-||ParameterValidations.java:logToErrorandRunLogs:216 
+||2012-03-02||15:23:07.898||-----------------------------------------------------------------------------------------||-||ParameterValidations.java:logToErrorandRunLogs:214 
+||2012-03-02||15:23:07.898||Validation error: Expiration Date value 2012-13-42 is not a valid date||-||ParameterValidations.java:logToErrorandRunLogs:215 
+||2012-03-02||15:23:07.898||-----------------------------------------------------------------------------------------||-||ParameterValidations.java:logToErrorandRunLogs:216 
+||2012-03-02||15:23:07.899||-----------------------------------------------------------------------------------------||-||ParameterValidations.java:logToErrorandRunLogs:214 
+||2012-03-02||15:23:07.899||Protocol validation error: httpx is not an allowed value||-||ParameterValidations.java:logToErrorandRunLogs:215 
+||2012-03-02||15:23:07.899||-----------------------------------------------------------------------------------------||-||ParameterValidations.java:logToErrorandRunLogs:216 
+||2012-03-02||15:23:07.899||-----------------------------------------------------------------------------------------||-||ParameterValidations.java:logToErrorandRunLogs:214 
+||2012-03-02||15:23:07.899||targetKeyManagerFQDN validation error: www.google.com is not an allowed value.  It must either contain 'gspt.net' or be an IP Address||-||ParameterValidations.java:logToErrorandRunLogs:215 
+||2012-03-02||15:23:07.899||-----------------------------------------------------------------------------------------||-||ParameterValidations.java:logToErrorandRunLogs:216 
+||2012-03-02||15:23:07.899||-----------------------------------------------------------------------------------------||-||ParameterValidations.java:logToErrorandRunLogs:214 
+||2012-03-02||15:23:07.899||TargetKeyManagerPort validation error:  is not an allowed value||-||ParameterValidations.java:logToErrorandRunLogs:215 
+||2012-03-02||15:23:07.899||-----------------------------------------------------------------------------------------||-||ParameterValidations.java:logToErrorandRunLogs:216 
+||2012-03-02||15:23:07.919||-----------------------------------------------------------------------------------------||-||ParameterValidations.java:logToErrorandRunLogs:214 
+||2012-03-02||15:23:07.919||TargetKeyManagerPort validation error: -80 is not an allowed value||-||ParameterValidations.java:logToErrorandRunLogs:215 
+||2012-03-02||15:23:07.919||-----------------------------------------------------------------------------------------||-||ParameterValidations.java:logToErrorandRunLogs:216 
+||2012-03-02||15:23:07.919||-----------------------------------------------------------------------------------------||-||ParameterValidations.java:logToErrorandRunLogs:214 
+||2012-03-02||15:23:07.919||Validation error: Mars must be a non-zero length string||-||ParameterValidations.java:logToErrorandRunLogs:215 
+||2012-03-02||15:23:07.919||-----------------------------------------------------------------------------------------||-||ParameterValidations.java:logToErrorandRunLogs:216 
+||2012-03-02||15:23:07.919||-----------------------------------------------------------------------------------------||-||ParameterValidations.java:logToErrorandRunLogs:214 
+||2012-03-02||15:23:07.919||Validation error: Test value TeST must equal (this test is case sensitive) to test||-||ParameterValidations.java:logToErrorandRunLogs:215 
+||2012-03-02||15:23:07.919||-----------------------------------------------------------------------------------------||-||ParameterValidations.java:logToErrorandRunLogs:216 

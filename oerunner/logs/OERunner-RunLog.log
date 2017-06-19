@@ -1,0 +1,4 @@
+2015-11-19 13:34:48.023 - The Test Configuration file DEV-Wawa-OE.properties exists 
+2015-11-19 13:35:04.309 - The Test Configuration file DEV-Wawa-OE.properties was successfully opened 
+2015-11-19 13:35:05.346 - the baseUrl is https://www.mml-dev.com/wawa and is set. 
+2015-11-19 13:35:05.346 - Employee UserName and Password set; running siteLogin() 

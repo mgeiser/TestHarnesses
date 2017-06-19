@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shippingaddress>
+	<Line1>680 Sunnyside Ave</Line1>
+	<Line2>Line2 data</Line2>	
+	<Line3>Line3 data</Line3>
+	<Line4>Line4 data</Line4>	
+	<City>Audubon</City>
+	<MainDivision>PA</MainDivision>
+	<CountryCode>US</CountryCode>
+	<PostalCode>19403</PostalCode>
+</shippingaddress>

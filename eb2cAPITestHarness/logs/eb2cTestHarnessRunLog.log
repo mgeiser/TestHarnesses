@@ -1,0 +1,504 @@
+2012-02-09 12:53:27.077 - 
+
+ -----the xml of this node ----- 
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+<BrowserData/>
+<TdlOrderTimestamp>2012-02-09T12:53:26-0500</TdlOrderTimestamp>
+<SessionInfo/>
+</Context>
+
+
+ 
+2012-02-09 12:58:02.261 - 
+
+ -----the xml of this node ----- 
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+<BrowserData>
+<HostName>gsi-13873.gsiccorp.net</HostName>
+<IPAddress>192.168.25.10</IPAddress>
+<SessionId>1eb6d667947a4897b21aa62de2cf144d</SessionId>
+<UserAgent>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)</UserAgent>
+<Connection>Keep-Alive</Connection>
+<Cookies>AuthenticationStateToken-B52sFfGWGBQAAAE0Zt0l9wAJ=3a3bfd6794ad08afd9f363ff6c1d4298</Cookies>
+<JavascriptData>TF1;015;5;8;17562;6%2C1%2C7601%2C17514;6%2C1%2C7601%2C17514</JavascriptData>
+<Referrer>http://tmsnae.gsipartners.com/products/12345</Referrer>
+</BrowserData>
+<TdlOrderTimestamp>2012-02-09T12:58:02-0500</TdlOrderTimestamp>
+<SessionInfo/>
+</Context>
+
+
+ 
+2012-02-09 12:59:50.771 - 
+
+ -----the xml of this node ----- 
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+<BrowserData>
+<HTTPAcceptData/>
+<HostName>gsi-13873.gsiccorp.net</HostName>
+<IPAddress>192.168.25.10</IPAddress>
+<SessionId>dfb34465b6984e89b2d184d7d3842a78</SessionId>
+<UserAgent>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)</UserAgent>
+<Connection>Keep-Alive</Connection>
+<Cookies>AuthenticationStateToken-B52sFfGWGBQAAAE0Zt0l9wAJ=3a3bfd6794ad08afd9f363ff6c1d4298</Cookies>
+<JavascriptData>TF1;015;5;8;17562;6%2C1%2C7601%2C17514;6%2C1%2C7601%2C17514</JavascriptData>
+<Referrer>http://tmsnae.gsipartners.com/products/12345</Referrer>
+</BrowserData>
+<TdlOrderTimestamp>2012-02-09T12:59:50-0500</TdlOrderTimestamp>
+<SessionInfo/>
+</Context>
+
+
+ 
+2012-02-09 13:05:44.221 - 
+
+ -----the xml of this node ----- 
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+<BrowserData>
+<HostName>gsi-13873.gsiccorp.net</HostName>
+<IPAddress>192.168.25.10</IPAddress>
+<SessionId>7da98e30397f477fa020238857291777</SessionId>
+<UserAgent>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)</UserAgent>
+<Connection>Keep-Alive</Connection>
+<Cookies>AuthenticationStateToken-B52sFfGWGBQAAAE0Zt0l9wAJ=3a3bfd6794ad08afd9f363ff6c1d4298</Cookies>
+<JavascriptData>TF1;015;5;8;17562;6%2C1%2C7601%2C17514;6%2C1%2C7601%2C17514</JavascriptData>
+<Referrer>http://tmsnae.gsipartners.com/products/12345</Referrer>
+<HTTPAcceptData/>
+<ContentTypes>image/jpeg, application/x-ms-application, image/gif, application/xaml+xml, image/pjpeg, application/x-ms-xbap, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*</ContentTypes>
+<Encoding>gzip, deflate</Encoding>
+<Language>en-US</Language>
+<CharSet>UTF-8</CharSet>
+</BrowserData>
+<TdlOrderTimestamp>2012-02-09T13:05:44-0500</TdlOrderTimestamp>
+<SessionInfo/>
+</Context>
+
+
+ 
+2012-02-09 13:06:22.521 - 
+
+ -----the xml of this node ----- 
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+<BrowserData>
+<HostName>gsi-13873.gsiccorp.net</HostName>
+<IPAddress>192.168.25.10</IPAddress>
+<SessionId>cd5029efc40e4ad9baa5705674d67ffa</SessionId>
+<UserAgent>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)</UserAgent>
+<Connection>Keep-Alive</Connection>
+<Cookies>AuthenticationStateToken-B52sFfGWGBQAAAE0Zt0l9wAJ=3a3bfd6794ad08afd9f363ff6c1d4298</Cookies>
+<JavascriptData>TF1;015;5;8;17562;6%2C1%2C7601%2C17514;6%2C1%2C7601%2C17514</JavascriptData>
+<Referrer>http://tmsnae.gsipartners.com/products/12345</Referrer>
+<HTTPAcceptData>
+<ContentTypes>image/jpeg, application/x-ms-application, image/gif, application/xaml+xml, image/pjpeg, application/x-ms-xbap, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*</ContentTypes>
+<Encoding>gzip, deflate</Encoding>
+<Language>en-US</Language>
+<CharSet>UTF-8</CharSet>
+</HTTPAcceptData>
+</BrowserData>
+<TdlOrderTimestamp>2012-02-09T13:06:22-0500</TdlOrderTimestamp>
+<SessionInfo/>
+</Context>
+
+
+ 
+2012-02-09 13:09:36.831 - 
+
+ -----the xml of this node ----- 
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+<BrowserData>
+<HostName>gsi-13873.gsiccorp.net</HostName>
+<IPAddress>192.168.25.10</IPAddress>
+<SessionId>e1fe85e7602d4f3a9d1cbdc6e161b474</SessionId>
+<UserAgent>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)</UserAgent>
+<Connection>Keep-Alive</Connection>
+<Cookies>AuthenticationStateToken-B52sFfGWGBQAAAE0Zt0l9wAJ=3a3bfd6794ad08afd9f363ff6c1d4298</Cookies>
+<JavascriptData>TF1;015;5;8;17562;6%2C1%2C7601%2C17514;6%2C1%2C7601%2C17514</JavascriptData>
+<Referrer>http://tmsnae.gsipartners.com/products/12345</Referrer>
+<HTTPAcceptData>
+<ContentTypes>image/jpeg, application/x-ms-application, image/gif, application/xaml+xml, image/pjpeg, application/x-ms-xbap, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*</ContentTypes>
+<Encoding>gzip, deflate</Encoding>
+<Language>en-US</Language>
+<CharSet>UTF-8</CharSet>
+</HTTPAcceptData>
+</BrowserData>
+<TdlOrderTimestamp>2012-02-09T13:09:36-0500</TdlOrderTimestamp>
+<SessionInfo>
+<TimeSpentOnSite>0:41:40</TimeSpentOnSite>
+<Lastlogin>2012-02-09T13:09:36-0500</Lastlogin>
+<UserPassword>b5921a900f614ef0a09f42411e165ac5</UserPassword>
+<AuthorizationAttempts>2</AuthorizationAttempts>
+</SessionInfo>
+</Context>
+
+
+ 
+2012-02-09 13:39:35.160 - 
+
+ -----the xml of this node ----- 
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+<BrowserData>
+<HostName>gsi-13873.gsiccorp.net</HostName>
+<IPAddress>192.168.25.10</IPAddress>
+<SessionId>e8347988bc9b4ab585cadc3b704d16b3</SessionId>
+<UserAgent>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)</UserAgent>
+<Connection>Keep-Alive</Connection>
+<Cookies>AuthenticationStateToken-B52sFfGWGBQAAAE0Zt0l9wAJ=3a3bfd6794ad08afd9f363ff6c1d4298</Cookies>
+<JavascriptData>TF1;015;5;8;17562;6%2C1%2C7601%2C17514;6%2C1%2C7601%2C17514</JavascriptData>
+<Referrer>http://tmsnae.gsipartners.com/products/12345</Referrer>
+<HTTPAcceptData>
+<ContentTypes>image/jpeg, application/x-ms-application, image/gif, application/xaml+xml, image/pjpeg, application/x-ms-xbap, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*</ContentTypes>
+<Encoding>gzip, deflate</Encoding>
+<Language>en-US</Language>
+<CharSet>UTF-8</CharSet>
+</HTTPAcceptData>
+</BrowserData>
+<TdlOrderTimestamp>2012-02-09T13:39:35-0500</TdlOrderTimestamp>
+<SessionInfo>
+<TimeSpentOnSite>0:41:40</TimeSpentOnSite>
+<Lastlogin>2012-02-09T13:39:35-0500</Lastlogin>
+<UserPassword>6f90635f0d2241199b1b8b5fb87e117f</UserPassword>
+<AuthorizationAttempts>2</AuthorizationAttempts>
+</SessionInfo>
+</Context>
+
+
+ 
+2012-02-09 13:42:18.779 - 
+
+ -----the xml of this node ----- 
+<?xml version="1.0" encoding="UTF-8"?>
+<TaxHeader>
+<Error>true</Error>
+</TaxHeader>
+
+
+ 
+2012-02-09 13:45:45.359 - 
+
+ -----the xml of this node ----- 
+<?xml version="1.0" encoding="UTF-8"?>
+<TaxHeader>
+<Error>true</Error>
+</TaxHeader>
+
+
+ 
+2012-02-09 13:46:07.189 - 
+
+ -----the xml of this node ----- 
+<?xml version="1.0" encoding="UTF-8"?>
+<TaxHeader>
+<Error>true</Error>
+</TaxHeader>
+
+
+ 
+2012-02-09 14:03:36.927 - 
+
+ -----the xml of this node ----- 
+<?xml version="1.0" encoding="UTF-8"?>
+<Customer customerId="12345">
+<Name>
+<Honorific>Mr.</Honorific>
+<LastName>Minimum</LastName>
+<MiddleName>O</MiddleName>
+<FirstName>Joe</FirstName>
+</Name>
+<EmailAddress>jminimum@test.com</EmailAddress>
+<CustomerTaxId>1234567890</CustomerTaxId>
+<TaxExemptFlag>false</TaxExemptFlag>
+</Customer>
+
+
+ 
+2012-02-09 14:03:37.058 - 
+
+ -----the xml of this node ----- 
+<?xml version="1.0" encoding="UTF-8"?>
+<Name>
+<Honorific>Mr.</Honorific>
+<LastName>Geiser</LastName>
+<MiddleName>J</MiddleName>
+<FirstName>Michael</FirstName>
+</Name>
+
+
+ 
+2012-02-09 14:04:37.105 - 
+
+ -----the xml of this node ----- 
+<?xml version="1.0" encoding="UTF-8"?>
+<Customer customerId="12345">
+<Name>
+<Honorific>Mr.</Honorific>
+<LastName>Minimum</LastName>
+<MiddleName>O</MiddleName>
+<FirstName>Joe</FirstName>
+</Name>
+<EmailAddress>jminimum@test.com</EmailAddress>
+<CustomerTaxId>1234567890</CustomerTaxId>
+<TaxExemptFlag>false</TaxExemptFlag>
+</Customer>
+
+
+ 
+2012-02-09 14:04:37.158 - 
+
+ -----the xml of this node ----- 
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+
+
+ 
+2012-02-09 14:04:37.166 - 
+
+ -----the xml of this node ----- 
+<?xml version="1.0" encoding="UTF-8"?>
+<Name>
+<LastName>Geiser</LastName>
+<MiddleName>J</MiddleName>
+<FirstName>Michael</FirstName>
+</Name>
+
+
+ 
+2012-02-09 14:14:13.070 - 
+
+ -----the xml of this node ----- 
+<?xml version="1.0" encoding="UTF-8"?>
+<Customer customerId="12345">
+<Name>
+<Honorific>Mr.</Honorific>
+<LastName>Minimum</LastName>
+<MiddleName>O</MiddleName>
+<FirstName>Joe</FirstName>
+</Name>
+<EmailAddress>jminimum@test.com</EmailAddress>
+<CustomerTaxId>1234567890</CustomerTaxId>
+<TaxExemptFlag>false</TaxExemptFlag>
+</Customer>
+
+
+ 
+2012-02-09 14:14:13.085 - 
+
+ -----the xml of this node ----- 
+<?xml version="1.0" encoding="UTF-8"?>
+<Name>
+<Honorific>Mr.</Honorific>
+<LastName>Geiser</LastName>
+<MiddleName>J</MiddleName>
+<FirstName>Michael</FirstName>
+</Name>
+
+
+ 
+2012-02-09 14:14:13.098 - 
+
+ -----the xml of this node ----- 
+<?xml version="1.0" encoding="UTF-8"?>
+<Name>
+<LastName>Geiser</LastName>
+<MiddleName>J</MiddleName>
+<FirstName>Michael</FirstName>
+</Name>
+
+
+ 
+2012-02-09 14:14:59.607 - 
+
+ -----the xml of this node ----- 
+<?xml version="1.0" encoding="UTF-8"?>
+<Customer customerId="12345">
+<Name>
+<Honorific>Mr.</Honorific>
+<LastName>Minimum</LastName>
+<MiddleName>O</MiddleName>
+<FirstName>Joe</FirstName>
+</Name>
+<EmailAddress>jminimum@test.com</EmailAddress>
+<CustomerTaxId>1234567890</CustomerTaxId>
+<TaxExemptFlag>false</TaxExemptFlag>
+</Customer>
+
+
+ 
+2012-02-09 14:14:59.620 - 
+
+ -----the xml of this node ----- 
+<?xml version="1.0" encoding="UTF-8"?>
+<ParentName>
+<Honorific>Mr.</Honorific>
+<LastName>Geiser</LastName>
+<MiddleName>J</MiddleName>
+<FirstName>Michael</FirstName>
+</ParentName>
+
+
+ 
+2012-02-09 14:14:59.625 - 
+
+ -----the xml of this node ----- 
+<?xml version="1.0" encoding="UTF-8"?>
+<Name>
+<LastName>Geiser</LastName>
+<MiddleName>J</MiddleName>
+<FirstName>Michael</FirstName>
+</Name>
+
+
+ 
+2012-02-09 15:32:55.258 - 
+
+ -----the xml of this node ----- 
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomAttributes>
+<Attribute>
+<Key>CustomOrderAttrib1</Key>
+<Value>yyy</Value>
+</Attribute>
+<Attribute>
+<Key>CustomOrderAttrib2</Key>
+<Value>xxx</Value>
+</Attribute>
+</CustomAttributes>
+
+
+ 
+2012-02-09 15:33:54.635 - 
+
+ -----the xml of this node ----- 
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomAttributes>
+<Attribute>
+<Key>CustomOrderAttrib1</Key>
+<Value>aaa</Value>
+</Attribute>
+<Attribute>
+<Key>CustomOrderAttrib2</Key>
+<Value>bbb</Value>
+</Attribute>
+</CustomAttributes>
+
+
+ 
+2012-02-09 22:12:25.162 - 
+
+ -----the xml of this node ----- 
+<?xml version="1.0" encoding="UTF-8"?>
+<EstimatedDeliveryDate>
+<DeliveryWindow>
+<From>2012-06-01</From>
+<To>2012-06-10</To>
+</DeliveryWindow>
+<ShippingWindow>
+<From>2012-05-25</From>
+<To>2012-05-30</To>
+</ShippingWindow>
+</EstimatedDeliveryDate>
+
+
+ 
+2012-02-09 22:14:47.842 - 
+
+ -----the xml of this node ----- 
+<?xml version="1.0" encoding="UTF-8"?>
+<EstimatedDeliveryDate>
+<DeliveryWindow>
+<From>2012-06-01</From>
+<To>2012-06-10</To>
+</DeliveryWindow>
+<ShippingWindow>
+<From>2012-05-25</From>
+<To>2012-05-30</To>
+</ShippingWindow>
+<OriginalExpectedShipmentDate>
+<From>2012-05-21</From>
+<To>2012-05-21</To>
+</OriginalExpectedShipmentDate>
+</EstimatedDeliveryDate>
+
+
+ 
+2012-02-09 22:17:20.022 - 
+
+ -----the xml of this node ----- 
+<?xml version="1.0" encoding="UTF-8"?>
+<EstimatedDeliveryDate>
+<DeliveryWindow>
+<From>2012-06-01</From>
+<To>2012-06-10</To>
+</DeliveryWindow>
+<ShippingWindow>
+<From>2012-05-25</From>
+<To>2012-05-30</To>
+</ShippingWindow>
+<mode>ENABLED</mode>
+<CreationTime>2012-05-20T13:13:13-0400</CreationTime>
+<Message>Expected Delivery</Message>
+<Template>HTML</Template>
+<OriginalExpectedShipmentDate>
+<From>2012-05-21</From>
+<To>2012-05-21</To>
+</OriginalExpectedShipmentDate>
+</EstimatedDeliveryDate>
+
+
+ 
+2012-02-09 22:19:32.512 - 
+
+ -----the xml of this node ----- 
+<?xml version="1.0" encoding="UTF-8"?>
+<EstimatedDeliveryDate>
+<DeliveryWindow>
+<From>2012-06-01</From>
+<To>2012-06-10</To>
+</DeliveryWindow>
+<ShippingWindow>
+<From>2012-05-25</From>
+<To>2012-05-30</To>
+</ShippingWindow>
+<mode>ENABLED</mode>
+<CreationTime>2012-05-20T13:13:13-0400</CreationTime>
+<Message>Expected Delivery</Message>
+<Template>HTML</Template>
+<OriginalExpectedShipmentDate>
+<From>2012-05-21</From>
+<To>2012-05-21</To>
+</OriginalExpectedShipmentDate>
+</EstimatedDeliveryDate>
+
+
+ 
+2012-02-09 22:35:49.884 - 
+
+ -----the xml of this node ----- 
+<?xml version="1.0" encoding="UTF-8"?>
+<EstimatedDeliveryDate>
+<DeliveryWindow>
+<From>2012-06-01</From>
+<To>2012-06-10</To>
+</DeliveryWindow>
+<ShippingWindow>
+<From>2012-05-25</From>
+<To>2012-05-30</To>
+</ShippingWindow>
+<mode>ENABLED</mode>
+<CreationTime>2012-05-20T13:13:13-0400</CreationTime>
+<Message>Expected Delivery</Message>
+<Template>HTML</Template>
+<OriginalExpectedShipmentDate>
+<From>2012-05-21</From>
+<To>2012-05-21</To>
+</OriginalExpectedShipmentDate>
+</EstimatedDeliveryDate>
+
+
+ 
